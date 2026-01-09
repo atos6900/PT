@@ -41,7 +41,7 @@ http://free4all.telegtv.xyz:25461/lmskype/skype2024/441
 http://free4all.telegtv.xyz:25461/lmskype/skype2024/137
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="",FOX
 http://free4all.telegtv.xyz:25461/lmskype/skype2024/442
-#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="FOX COMEDY" tvg-logo="" group-title="Series",FOX COMEDY
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="FOX COMEDY" tvg-logo="" group-title="",FOX COMEDY
 http://free4all.telegtv.xyz:25461/lmskype/skype2024/126
 #EXTINF:-1 tvg-id="foxlife.pt" tvg-name="FOX LIFE" tvg-logo="" group-title="",FOX LIFE
 http://free4all.telegtv.xyz:25461/lmskype/skype2024/69
@@ -118,7 +118,7 @@ http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/93905.ts
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/8810.ts
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="✨",HBO HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/94382.ts
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="http://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title=" ✨",HBO 2 HD
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="http://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="✨",HBO 2 HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/93899.ts
 #EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="http://3.bp.blogspot.com/-aGkAuFCyafk/Xk8yLrRrrOI/AAAAAAAACJs/i7YTgH5c8WonAcJEje8dgmN1qTB7LOZKwCK4BGAYYCw/s400/HBO%2BFAMILY.png" group-title="✨",HBO FAMILY HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/31860.ts
