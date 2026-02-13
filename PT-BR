@@ -69,37 +69,37 @@ http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=107464
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/107458.png" group-title="PT|",PT| ODISSEIA
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=107458&extension=ts&play_token=2JTFwAXMa2
 
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/107522.png" group-title="PT| DESPORTO",PT| A BOLA TV HD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/107522.png" group-title="PT|",PT| A BOLA TV HD
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=107522&extension=ts&play_token=gEbKnLHVDA
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/983567.png" group-title="PT| DESPORTO",PT| BENFICA TV HD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/983567.png" group-title="PT|",PT| BENFICA TV HD
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=107511&extension=ts&play_token=SSkGP6cdYq
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/107437.png" group-title="PT| DESPORTO",PT| SPORT TV + HD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/107437.png" group-title="PT|",PT| SPORT TV + HD
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=107437&extension=ts&play_token=yB5bPWnuzp
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/107436.png" group-title="PT| DESPORTO",PT| SPORT TV 1 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/107436.png" group-title="PT|",PT| SPORT TV 1 HD
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=107436&extension=ts&play_token=nHQkKcu2gF
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/107435.png" group-title="PT| DESPORTO",PT| SPORT TV 2 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/107435.png" group-title="PT|",PT| SPORT TV 2 HD
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=107435&extension=ts&play_token=6y0GqHPr5o
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/107434.png" group-title="PT| DESPORTO",PT| SPORT TV 3 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/107434.png" group-title="PT|",PT| SPORT TV 3 HD
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=107434&extension=ts&play_token=nwxKa88y8P
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/107433.png" group-title="PT| DESPORTO",PT| SPORT TV 4 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/107433.png" group-title="PT|",PT| SPORT TV 4 HD
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=107433&extension=ts&play_token=WmOpoEoX1o
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/148667.png" group-title="PT| DESPORTO",PT| SPORT TV 5 HD
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=148667&extension=ts&play_token=Td7BP6mdas
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/712739.png" group-title="PT| DESPORTO",PT| SPORT TV 6 FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/712739.png" group-title="PT|",PT| SPORT TV 6 FHD
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=712739&extension=ts&play_token=5fExlCZyUJ
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1613387.png" group-title="PT| DESPORTO",PT| SPORT TV 7 FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1613387.png" group-title="PT|",PT| SPORT TV 7 FHD
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=1613387&extension=ts&play_token=EIO516Zt6U
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/107495.png" group-title="PT| DESPORTO",PT| DAZN 1 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/107495.png" group-title="PT|",PT| DAZN 1 HD
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=107495&extension=ts&play_token=5S1cVA0VJQ
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/107494.png" group-title="PT| DESPORTO",PT| DAZN 2 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/107494.png" group-title="PT|",PT| DAZN 2 HD
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=107494&extension=ts&play_token=bB7IlS6n0h
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/122484.png" group-title="PT| DESPORTO",PT| DAZN 3 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/122484.png" group-title="PT|",PT| DAZN 3 HD
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=122484&extension=ts&play_token=ykcmX9rCOs
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/122485.png" group-title="PT| DESPORTO",PT| DAZN 4 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/122485.png" group-title="PT|",PT| DAZN 4 HD
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=122485&extension=ts&play_token=CbN3scVdb5
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/122486.png" group-title="PT| DESPORTO",PT| DAZN 5 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/122486.png" group-title="PT|",PT| DAZN 5 HD
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=122486&extension=ts&play_token=ccvVmWYCHX
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/107430.png" group-title="PT| DESPORTO",PT| SPORTING TV
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/107430.png" group-title="PT|",PT| SPORTING TV
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=107430&extension=ts&play_token=eFnTPRt028
 
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1028870.png" group-title="PT|",PT| FILMES DE AÇÃO 1 FHD
@@ -146,61 +146,61 @@ http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=102887
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=425319&extension=ts&play_token=Yz2mBkXMCd
 
 
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="http://1.bp.blogspot.com/-KVAJJtXKXUE/XmQOw0jLTMI/AAAAAAAACRo/GORUzAEatRU7S0MPBE7yXcIRsXTYmwN0QCK4BGAYYCw/s400/A%2526E.png" group-title="✨",A&E HD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="http://1.bp.blogspot.com/-KVAJJtXKXUE/XmQOw0jLTMI/AAAAAAAACRo/GORUzAEatRU7S0MPBE7yXcIRsXTYmwN0QCK4BGAYYCw/s400/A%2526E.png" group-title="BR",A&E HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/23157.ts
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png" group-title="✨",AXN HD
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png" group-title="BR",AXN HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/23692.ts
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://4.bp.blogspot.com/-BmCyUz8X3A0/XmQWD7ze5gI/AAAAAAAACSA/_d2wlKKsAHYzfU44Qc98JkHlJtpB724-gCK4BGAYYCw/s400/AMC.png" group-title="✨",AMC HD
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://4.bp.blogspot.com/-BmCyUz8X3A0/XmQWD7ze5gI/AAAAAAAACSA/_d2wlKKsAHYzfU44Qc98JkHlJtpB724-gCK4BGAYYCw/s400/AMC.png" group-title="BR",AMC HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/23688.ts
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://2.bp.blogspot.com/-Pv-Nhnad2FE/XmQd6C0TObI/AAAAAAAACS8/bIFwGCAlgyQPppDIppaHqzF4js5Z4F4aQCK4BGAYYCw/s400/CINEMAX.png" group-title="✨",CINEMAX HD
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://2.bp.blogspot.com/-Pv-Nhnad2FE/XmQd6C0TObI/AAAAAAAACS8/bIFwGCAlgyQPppDIppaHqzF4js5Z4F4aQCK4BGAYYCw/s400/CINEMAX.png" group-title="BR",CINEMAX HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/35232.ts
-#EXTINF:-1 tvg-id="7" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://1.bp.blogspot.com/-gO9KQOa5_VM/Xk70PmiUxFI/AAAAAAAACD0/bActYU1lpyUhbKJQrR-parzrrGHAVIEkgCLcBGAsYHQ/s1600/discoverychannel.png" group-title="✨",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="7" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://1.bp.blogspot.com/-gO9KQOa5_VM/Xk70PmiUxFI/AAAAAAAACD0/bActYU1lpyUhbKJQrR-parzrrGHAVIEkgCLcBGAsYHQ/s1600/discoverychannel.png" group-title="BR",DISCOVERY CHANNEL HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/8736.ts
-#EXTINF:-1 tvg-id="8" tvg-name="DISCOVERY HOME & HEALT HD" tvg-logo="http://1.bp.blogspot.com/-rcT1Fa94uEY/Xk70QDg9_VI/AAAAAAAACD8/dx5QGsd5jY4q9mzoovf_KlUpuD56__JwQCLcBGAsYHQ/s1600/discoveryhomehealth.png" group-title="✨",DISCOVERY HOME & HEALT HD
+#EXTINF:-1 tvg-id="8" tvg-name="DISCOVERY HOME & HEALT HD" tvg-logo="http://1.bp.blogspot.com/-rcT1Fa94uEY/Xk70QDg9_VI/AAAAAAAACD8/dx5QGsd5jY4q9mzoovf_KlUpuD56__JwQCLcBGAsYHQ/s1600/discoveryhomehealth.png" group-title="BR",DISCOVERY HOME & HEALT HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/93902.ts
-#EXTINF:-1 tvg-id="117" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://1.bp.blogspot.com/-zmhzL_q8BuE/Xk70Q4GLrTI/AAAAAAAACEE/5VO8WJ7wWMAq17Ha1OP0hbtgrqoF1vFrQCLcBGAsYHQ/s1600/discoverytheater.png" group-title="✨",DISCOVERY THEATER HD
+#EXTINF:-1 tvg-id="117" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://1.bp.blogspot.com/-zmhzL_q8BuE/Xk70Q4GLrTI/AAAAAAAACEE/5VO8WJ7wWMAq17Ha1OP0hbtgrqoF1vFrQCLcBGAsYHQ/s1600/discoverytheater.png" group-title="BR",DISCOVERY THEATER HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/8751.ts
-#EXTINF:-1 tvg-id="12" tvg-name="DISCOVERY TLC HD" tvg-logo="http://2.bp.blogspot.com/-kIUVI9_YPPE/XmP60ycdyPI/AAAAAAAACPY/r6d1IMJFvDQsE-Il4Cic1BnuJN47QvI0ACK4BGAYYCw/s400/TLC.png" group-title="✨",DISCOVERY TLC HD
+#EXTINF:-1 tvg-id="12" tvg-name="DISCOVERY TLC HD" tvg-logo="http://2.bp.blogspot.com/-kIUVI9_YPPE/XmP60ycdyPI/AAAAAAAACPY/r6d1IMJFvDQsE-Il4Cic1BnuJN47QvI0ACK4BGAYYCw/s400/TLC.png" group-title="BR",DISCOVERY TLC HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/8754.ts
-#EXTINF:-1 tvg-id="18" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://1.bp.blogspot.com/--Gnd1cKRE40/Xk70Rq5scQI/AAAAAAAACEI/zJ6OQb7ctNUtUrNztpfVTBOevy9BVW6fwCLcBGAsYHQ/s1600/discoveryturbo.png" group-title="✨",DISCOVERY TURBO HD
+#EXTINF:-1 tvg-id="18" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://1.bp.blogspot.com/--Gnd1cKRE40/Xk70Rq5scQI/AAAAAAAACEI/zJ6OQb7ctNUtUrNztpfVTBOevy9BVW6fwCLcBGAsYHQ/s1600/discoveryturbo.png" group-title="BR",DISCOVERY TURBO HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/30155.ts
-#EXTINF:-1 tvg-id="118" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://1.bp.blogspot.com/-nb1EQ-vyLXg/Xk70RwCpZSI/AAAAAAAACEM/6W2YKWTTrLEyrgWbh52Q7ixjjsGSlWnhgCLcBGAsYHQ/s1600/discoveryworld.png" group-title="✨",DISCOVERY WORLD HD
+#EXTINF:-1 tvg-id="118" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://1.bp.blogspot.com/-nb1EQ-vyLXg/Xk70RwCpZSI/AAAAAAAACEM/6W2YKWTTrLEyrgWbh52Q7ixjjsGSlWnhgCLcBGAsYHQ/s1600/discoveryworld.png" group-title="BR",DISCOVERY WORLD HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/93905.ts
-#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png" group-title="✨",FOOD NETWORK HD
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png" group-title="BR",FOOD NETWORK HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/8810.ts
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="✨",HBO HD
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="BR",HBO HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/94382.ts
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="http://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="✨",HBO 2 HD
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="http://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="BR",HBO 2 HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/93899.ts
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="http://3.bp.blogspot.com/-aGkAuFCyafk/Xk8yLrRrrOI/AAAAAAAACJs/i7YTgH5c8WonAcJEje8dgmN1qTB7LOZKwCK4BGAYYCw/s400/HBO%2BFAMILY.png" group-title="✨",HBO FAMILY HD
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="http://3.bp.blogspot.com/-aGkAuFCyafk/Xk8yLrRrrOI/AAAAAAAACJs/i7YTgH5c8WonAcJEje8dgmN1qTB7LOZKwCK4BGAYYCw/s400/HBO%2BFAMILY.png" group-title="BR",HBO FAMILY HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/31860.ts
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="http://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png" group-title="✨",HBO MUNDI HD
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="http://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png" group-title="BR",HBO MUNDI HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/93900.ts
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD" tvg-logo="http://1.bp.blogspot.com/-IaVubC3e0w4/Xk70YuLghmI/AAAAAAAACFc/dfLAePYpBlwPazBj_MIh10M25XiQDMIpgCLcBGAsYHQ/s1600/hboplus.png" group-title="✨",HBO PLUS HD
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD" tvg-logo="http://1.bp.blogspot.com/-IaVubC3e0w4/Xk70YuLghmI/AAAAAAAACFc/dfLAePYpBlwPazBj_MIh10M25XiQDMIpgCLcBGAsYHQ/s1600/hboplus.png" group-title="BR",HBO PLUS HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/11771.ts
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="http://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png" group-title="✨",HBO XTREME HD
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="http://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png" group-title="BR",HBO XTREME HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/31870.ts
-#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD" tvg-logo="http://1.bp.blogspot.com/-7mzrwenGEL0/XmQY1Lhuh0I/AAAAAAAACSM/KO7bzqORN4MkRz4IYz5nmmvsvpMa7AWEQCK4BGAYYCw/s400/SONY.png" group-title="✨",SONY HD
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD" tvg-logo="http://1.bp.blogspot.com/-7mzrwenGEL0/XmQY1Lhuh0I/AAAAAAAACSM/KO7bzqORN4MkRz4IYz5nmmvsvpMa7AWEQCK4BGAYYCw/s400/SONY.png" group-title="BR",SONY HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/9099.ts
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="http://1.bp.blogspot.com/-YBl9_nxYYEg/Xk70g8w-e4I/AAAAAAAACGw/Dka4nvxveQomHzF23ECe1TTjbLrHmV7HQCLcBGAsYHQ/s1600/space.png" group-title="✨",SPACE HD
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="http://1.bp.blogspot.com/-YBl9_nxYYEg/Xk70g8w-e4I/AAAAAAAACGw/Dka4nvxveQomHzF23ECe1TTjbLrHmV7HQCLcBGAsYHQ/s1600/space.png" group-title="BR",SPACE HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/9102.ts
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://1.bp.blogspot.com/-HwBnoP0mT_M/XmQbJQxtOmI/AAAAAAAACSY/iYDILTxas0AX_cw4uES3H3Pqb9S7aIGPgCK4BGAYYCw/s400/STUDIO.png" group-title="✨",STUDIO UNIVERSAL HD
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://1.bp.blogspot.com/-HwBnoP0mT_M/XmQbJQxtOmI/AAAAAAAACSY/iYDILTxas0AX_cw4uES3H3Pqb9S7aIGPgCK4BGAYYCw/s400/STUDIO.png" group-title="BR",STUDIO UNIVERSAL HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/35247.ts
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SÉRIES HD" tvg-logo="http://2.bp.blogspot.com/-y7VHTV5DRjI/XmQJE5dYI6I/AAAAAAAACRc/Elj48OGVvq0c0xzuK0Ksgct432_EKU1xgCK4BGAYYCw/s400/TNT%2BSERIES.png" group-title="✨",TNT SÉRIES HD
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SÉRIES HD" tvg-logo="http://2.bp.blogspot.com/-y7VHTV5DRjI/XmQJE5dYI6I/AAAAAAAACRc/Elj48OGVvq0c0xzuK0Ksgct432_EKU1xgCK4BGAYYCw/s400/TNT%2BSERIES.png" group-title="BR",TNT SÉRIES HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/9145.ts
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://1.bp.blogspot.com/-pIwQ4jpCaSA/Xk70h2WvMuI/AAAAAAAACG8/H7IRhohaMuIRdiA7vvJOAP8WhylZVCw8ACLcBGAsYHQ/s1600/tcaction.png" group-title="✨",TELECINE ACTION HD
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://1.bp.blogspot.com/-pIwQ4jpCaSA/Xk70h2WvMuI/AAAAAAAACG8/H7IRhohaMuIRdiA7vvJOAP8WhylZVCw8ACLcBGAsYHQ/s1600/tcaction.png" group-title="BR",TELECINE ACTION HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/9127.ts
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://2.bp.blogspot.com/-U4WH_IfwjL0/Xk81J1ihAbI/AAAAAAAACKE/zz1a5trjqeEu6PQbXNbrpKDe2ZXf7qWSgCK4BGAYYCw/s400/TELECINE%2BFUN.png" group-title="✨",TELECINE FUN HD
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://2.bp.blogspot.com/-U4WH_IfwjL0/Xk81J1ihAbI/AAAAAAAACKE/zz1a5trjqeEu6PQbXNbrpKDe2ZXf7qWSgCK4BGAYYCw/s400/TELECINE%2BFUN.png" group-title="BR",TELECINE FUN HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/9130.ts
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://1.bp.blogspot.com/-AR2UtKP1imM/Xk70ib8bFkI/AAAAAAAACHE/mopV-HfjVZoE3syeonIwTfcaDNasRwnrQCLcBGAsYHQ/s1600/tcpipoca.png" group-title="✨",TELECINE PIPOCA HD
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://1.bp.blogspot.com/-AR2UtKP1imM/Xk70ib8bFkI/AAAAAAAACHE/mopV-HfjVZoE3syeonIwTfcaDNasRwnrQCLcBGAsYHQ/s1600/tcpipoca.png" group-title="BR",TELECINE PIPOCA HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/9132.ts
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://1.bp.blogspot.com/-MDUGenGEDWY/Xk70ikb4lNI/AAAAAAAACHI/ppxKIf9EyBMqFa4gio-ZHs1-FKYODoDVQCLcBGAsYHQ/s1600/tcpremium.png" group-title="✨",TELECINE PREMIUM HD
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://1.bp.blogspot.com/-MDUGenGEDWY/Xk70ikb4lNI/AAAAAAAACHI/ppxKIf9EyBMqFa4gio-ZHs1-FKYODoDVQCLcBGAsYHQ/s1600/tcpremium.png" group-title="BR",TELECINE PREMIUM HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/9134.ts
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://1.bp.blogspot.com/-xmlHLAgtCtc/Xk70jtK4nZI/AAAAAAAACHM/YTFmhUzOS3Qca5jxGg5O5-AKGgAXFbPLQCLcBGAsYHQ/s1600/tctouch.png" group-title="✨",TELECINE TOUCH HD
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://1.bp.blogspot.com/-xmlHLAgtCtc/Xk70jtK4nZI/AAAAAAAACHM/YTFmhUzOS3Qca5jxGg5O5-AKGgAXFbPLQCLcBGAsYHQ/s1600/tctouch.png" group-title="BR",TELECINE TOUCH HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/9136.ts
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://1.bp.blogspot.com/-cl-zcjepRcU/Xk70nmSkZsI/AAAAAAAACH4/ROQDJ7TdojcAxCW6SVf9B1AoxlaV8KYfgCLcBGAsYHQ/s1600/universaltv.png" group-title="✨",UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://1.bp.blogspot.com/-cl-zcjepRcU/Xk70nmSkZsI/AAAAAAAACH4/ROQDJ7TdojcAxCW6SVf9B1AoxlaV8KYfgCLcBGAsYHQ/s1600/universaltv.png" group-title="BR",UNIVERSAL CHANNEL HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/9212.ts
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://1.bp.blogspot.com/-KYJNJ8ofZhQ/Xk70bsae15I/AAAAAAAACF4/bu4pFKpyK3I802HKsQJEP4f8S7_KLRUXgCLcBGAsYHQ/s1600/megapix.png" group-title="✨",MEGAPIX HD
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://1.bp.blogspot.com/-KYJNJ8ofZhQ/Xk70bsae15I/AAAAAAAACF4/bu4pFKpyK3I802HKsQJEP4f8S7_KLRUXgCLcBGAsYHQ/s1600/megapix.png" group-title="BR",MEGAPIX HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/8962.ts
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="http://2.bp.blogspot.com/-YLvYyrLM0Tc/XmQENo4hcuI/AAAAAAAACQs/jKWMWXYMuvIhu7iXvLJCm-9BEONKMcqxwCK4BGAYYCw/s400/MULTICHO.png" group-title="✨",MULTISHOW HD
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="http://2.bp.blogspot.com/-YLvYyrLM0Tc/XmQENo4hcuI/AAAAAAAACQs/jKWMWXYMuvIhu7iXvLJCm-9BEONKMcqxwCK4BGAYYCw/s400/MULTICHO.png" group-title="BR",MULTISHOW HD
 http://wroxfibra.com:80/SEGFw9ng7Evb/HXdpeagffsVB/8974.ts
