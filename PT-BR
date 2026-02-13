@@ -83,7 +83,7 @@ http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=107435
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=107434&extension=ts&play_token=nwxKa88y8P
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/107433.png" group-title="PT|",PT| SPORT TV 4 HD
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=107433&extension=ts&play_token=WmOpoEoX1o
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/148667.png" group-title="PT| DESPORTO",PT| SPORT TV 5 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/148667.png" group-title="PT|",PT| SPORT TV 5 HD
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=148667&extension=ts&play_token=Td7BP6mdas
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/712739.png" group-title="PT|",PT| SPORT TV 6 FHD
 http://line.oranges.digital:80/play/live.php?mac=00:1A:79:37:14:68&stream=712739&extension=ts&play_token=5fExlCZyUJ
